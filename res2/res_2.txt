@@ -1,0 +1,9 @@
+EQUIPE asuwant
+INSTANCE 2
+0 16
+3 4
+8 17
+1 2
+7 11
+0 19
+7 1
